@@ -7,11 +7,10 @@
 
 | 技术                   | 版本   | 说明                                     |
 | ---------------------- | ------ | --------------------------------------- |
-| Spring Boot            | 2.1.6  | MVC核心框架                              |
-| tk MyBatis                | 3.5.0  | ORM框架                              |
+| Spring Boot            | 2.1.5  | MVC核心框架                              |
+| tk MyBatis                | 2.1.0  | ORM框架                              |
 | Swagger-UI             | 2.9.2  | 文档生产工具                            |
-| fst                    | 2.57   | 更快的序列化和反序列化工具                |
-| lombok                 | 1.18.8 | 简化对象封装工具                         |
+| lombok                 | 1.16.10 | 简化对象封装工具                         |
 | swagger-bootstrap      | 1.9.3  | 基于swagger，更便于国人使用的swagger ui  |
 
 
