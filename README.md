@@ -1,6 +1,8 @@
 # wallpaper-applet  壁纸微信小程序
 
-# 已集成微信流量主 满足条件通过配置即可出现微信广告、部署一次可分配至多个小程序使用
+# 已集成微信流量主 满足流量主条件通过后台配置即可出现微信广告、后台接口已实现多个小程序共用、部署一次可以给多个小程序使用。
+
+# 个人微信：2549789059
 
 # 功能清单
 1、首页banner 可在后台控制显示张数
@@ -38,6 +40,10 @@
 ![db2448e9637385c7f263278c586c067](https://user-images.githubusercontent.com/55384355/130206461-ebd5f2b5-1877-4f6b-ada5-8e0ecf309829.jpg)
 
 
+# 个人微信：2549789059
 
+![b49413707b0017cbdbfbff8709e744a](https://user-images.githubusercontent.com/55384355/130208077-07106b47-3557-40d1-ba34-fcacbbcf3592.jpg)
+
+![b114de10f5cb8e39bd7c7ce078e9b93](https://user-images.githubusercontent.com/55384355/130208173-71b4eacd-1cbe-40c5-a2af-5580defcd176.jpg)
 
 
